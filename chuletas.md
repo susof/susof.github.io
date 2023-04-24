@@ -15,5 +15,10 @@
    (that last line will change from `www.` to `WWW` when you save the records)
 5. Optionally, check the _enforce HTTPS_ checkbox so your pages are served through secure connection
 
+
+#### Regarding subdomains & subpages, check these:
+- <https://superuser.com/questions/1499092/subdomains-through-freenom-with-github>
+
+
 #### freenom.com (dot.tk) domain github tools:
 - <https://github.com/topics/freenom>
