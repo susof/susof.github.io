@@ -1,5 +1,6 @@
 ### Instructions:
-#### [How can I use dot.tk domain with GitHub Pages?](https://stackoverflow.com/questions/44081863/how-can-i-use-dot-tk-domain-with-github-pages/49963795#49963795)
+#### [How can I use dot.tk domain with GitHub Pages?](https://stackoverflow.com/questions/44081863/how-can-i-use-dot-tk-domain-with-github-pages/49963795#49963795) (see also [here](https://stackoverflow.com/questions/67652848/freenom-url-forwarding-to-github-hosted-repo-is-returning-a-502-bad-gateway-erro/67737607#67737607))
+
 1. Login to freenom.com
 2. Go to _Services -> My Domains -> Manage Domain_
 3. _Management Tools -> Nameservers_
