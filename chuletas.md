@@ -9,7 +9,7 @@
    - Name: empty / Type: A / TTL: default? / Target: one of github IP's ([see here]([url](https://docs.github.com/en/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site)))
    - Name: empty / Type: A / TTL: default? / Target: another github IP's ([see here]([url](https://docs.github.com/en/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site)))
    - ...
-   - Name: `www.` / Type: CNAME / TTL: default? / Target: your-user-or-project-name.github.io 
+   - Name: `www.` / Type: CNAME / TTL: default? / Target: your-user-or-project-name.github.io  
 
    (that last line will change from `www.` to `WWW` when you save the records)
 5. Optionally, check the _enforce HTTPS_ checkbox so your pages are served through secure connection
