@@ -14,3 +14,6 @@
 
    (that last line will change from `www.` to `WWW` when you save the records)
 5. Optionally, check the _enforce HTTPS_ checkbox so your pages are served through secure connection
+
+#### freenom.com (dot.tk) domain github tools:
+- <https://github.com/topics/freenom>
