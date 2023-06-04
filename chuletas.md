@@ -27,3 +27,9 @@ And then ...
 
 #### freenom.com (dot.tk) domain github tools:
 - <https://github.com/topics/freenom> also by languages: [Python](https://github.com/topics/freenom?l=python)
+
+#### freedns subdomain registry (permite subdominios gratuitos, especialmente se ofreces o teu propio dominio á rede):
+- <https://freedns.afraid.org/domain/registry/>
+- [forward your freedns custom domain to your GitHub Pages site](https://www.roshanadhikary.com.np/2020/11/forward-your-freedns-custom-domain-to.html)
+
+
